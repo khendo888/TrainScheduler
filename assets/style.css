@@ -1,0 +1,17 @@
+.jumbotron {
+	text-align: center;
+	background-image: url(vintagetrain.jpeg);
+	color: #fff;
+	font-weight: bolder;
+
+}
+.jumbotron h1, .jumbotron h2{
+	text-shadow: 5px 5px 10px red; 
+}
+th {
+	font-weight: bolder;
+}
+.panel-heading, .panel-title {
+	font-weight: bolder;
+}
+
